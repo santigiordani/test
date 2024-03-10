@@ -1,8 +1,15 @@
-# this is a file i am creating in my repository, this will be commited and therefore added to the repository, later, i will change this file to see what happends
+# Python stuff
 
 def Id(x: int) -> int:
   return x
 
+class Alderan:
+
+  def __init__(self):
+
+    # This is a planet in the star wars saga
+    self.planet = "Alderan"
+    
 class Something:
 
   def __init__(self):
@@ -11,5 +18,3 @@ class Something:
     """
     
     self.essence = None
-
-# now i am doing nothing more, for now
