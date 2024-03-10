@@ -3,4 +3,13 @@
 def Id(x: int) -> int:
   return x
 
+class Something:
+
+  def __init__(self):
+    """
+    Creating some object
+    """
+    
+    self.essence = None
+
 # now i am doing nothing more, for now
